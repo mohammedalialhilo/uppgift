@@ -1,0 +1,11 @@
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\bin\Debug\net9.0\WestcoastEducation.Domain.deps.json
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\bin\Debug\net9.0\WestcoastEducation.Domain.dll
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\bin\Debug\net9.0\WestcoastEducation.Domain.pdb
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\WestcoastEducation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\WestcoastEducation.Domain.AssemblyInfoInputs.cache
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\WestcoastEducation.Domain.AssemblyInfo.cs
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\WestcoastEducation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\WestcoastEducation.Domain.dll
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\refint\WestcoastEducation.Domain.dll
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\WestcoastEducation.Domain.pdb
+C:\Users\alhil\Desktop\Lektion-16\WestcoastEducation\WestcoastEducation.Domain\obj\Debug\net9.0\ref\WestcoastEducation.Domain.dll

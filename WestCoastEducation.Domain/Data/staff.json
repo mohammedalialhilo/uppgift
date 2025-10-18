@@ -1,0 +1,38 @@
+[
+  {
+    "id": "P1",
+    "firstName": "Karin",
+    "lastName": "Lundqvist",
+    "phone": "070-3001001",
+    "email": "karin.lundqvist@wce.se",
+    "personalNumber": "19760606-2345",
+    "address": { "street": "Södra Vägen 6", "postalCode": "41254", "city": "Göteborg" },
+    "expertiseArea": "Projektledning / IT",
+    "responsibleCourseIds": [],
+    "employmentDate": "2010-09-01T00:00:00Z"
+  },
+  {
+    "id": "P2",
+    "firstName": "Jonas",
+    "lastName": "Ekström",
+    "phone": "070-3001002",
+    "email": "jonas.ekstrom@wce.se",
+    "personalNumber": "19800808-3456",
+    "address": { "street": "Norra Vallgatan 18", "postalCode": "21125", "city": "Malmö" },
+    "expertiseArea": "Systemutveckling",
+    "responsibleCourseIds": [],
+    "employmentDate": "2015-04-15T00:00:00Z"
+  },
+  {
+    "id": "A1",
+    "firstName": "Lena",
+    "lastName": "Pettersson",
+    "phone": "070-3001003",
+    "email": "lena.pettersson@wce.se",
+    "personalNumber": "19721212-4567",
+    "address": { "street": "Haga Kyrkogata 5", "postalCode": "41122", "city": "Göteborg" },
+    "expertiseArea": "Administration",
+    "responsibleCourseIds": [],
+    "employmentDate": "2008-01-01T00:00:00Z"
+  }
+]

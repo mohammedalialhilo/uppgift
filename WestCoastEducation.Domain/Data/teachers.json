@@ -1,0 +1,84 @@
+[
+  {
+    "expertiseArea": "Webbutveckling / JavaScript",
+    "responsibleCourseIds": [
+      "C2"
+    ],
+    "id": "T1",
+    "firstName": "Anna",
+    "lastName": "Andersson",
+    "phone": "070-2001001",
+    "email": "anna.andersson@wce.se",
+    "personalNumber": "19790303-1234",
+    "address": {
+      "street": "Linn\u00E9gatan 20",
+      "postalCode": "41104",
+      "city": "G\u00F6teborg"
+    },
+    "fullName": "Anna Andersson"
+  },
+  {
+    "expertiseArea": "C# / .NET backend",
+    "responsibleCourseIds": [],
+    "id": "T2",
+    "firstName": "Bj\u00F6rn",
+    "lastName": "Bergstr\u00F6m",
+    "phone": "070-2001002",
+    "email": "bjorn.bergstrom@wce.se",
+    "personalNumber": "19810505-5678",
+    "address": {
+      "street": "Kungsgatan 15",
+      "postalCode": "41119",
+      "city": "G\u00F6teborg"
+    },
+    "fullName": "Bj\u00F6rn Bergstr\u00F6m"
+  },
+  {
+    "expertiseArea": "UX / UI Design",
+    "responsibleCourseIds": [],
+    "id": "T3",
+    "firstName": "Clara",
+    "lastName": "Nilsson",
+    "phone": "070-2001003",
+    "email": "clara.nilsson@wce.se",
+    "personalNumber": "19891212-6789",
+    "address": {
+      "street": "G\u00F6tgatan 5",
+      "postalCode": "11846",
+      "city": "Stockholm"
+    },
+    "fullName": "Clara Nilsson"
+  },
+  {
+    "expertiseArea": "Cloud \u0026 DevOps (Azure)",
+    "responsibleCourseIds": [],
+    "id": "T4",
+    "firstName": "David",
+    "lastName": "H\u00E5kansson",
+    "phone": "070-2001004",
+    "email": "david.hakansson@wce.se",
+    "personalNumber": "19870707-7890",
+    "address": {
+      "street": "Lilla Nygatan 8",
+      "postalCode": "11128",
+      "city": "Stockholm"
+    },
+    "fullName": "David H\u00E5kansson"
+  },
+  {
+    "expertiseArea": "Databaser \u0026 SQL",
+    "responsibleCourseIds": [],
+    "id": "T5",
+    "firstName": "Elin",
+    "lastName": "S\u00F6derberg",
+    "phone": "070-2001005",
+    "email": "elin.soderberg@wce.se",
+    "personalNumber": "19900303-8901",
+    "address": {
+      "street": "V\u00E4stra Hamngatan 2",
+      "postalCode": "41117",
+      "city": "G\u00F6teborg"
+    },
+    "fullName": "Elin S\u00F6derberg"
+  }
+]

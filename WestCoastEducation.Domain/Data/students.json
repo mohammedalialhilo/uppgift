@@ -1,0 +1,32 @@
+[
+  {
+    "id": "S1",
+    "firstName": "Emma",
+    "lastName": "Svensson",
+    "phone": "070-1001001",
+    "email": "emma.svensson@example.com",
+    "personalNumber": "19980101-1234",
+    "address": { "street": "Linnégatan 10", "postalCode": "41104", "city": "Göteborg" },
+    "enrolledCourseIds": []
+  },
+  {
+    "id": "S2",
+    "firstName": "Liam",
+    "lastName": "Johansson",
+    "phone": "070-1001002",
+    "email": "liam.johansson@example.com",
+    "personalNumber": "19970512-2345",
+    "address": { "street": "Kungsgatan 22", "postalCode": "41119", "city": "Göteborg" },
+    "enrolledCourseIds": []
+  },
+  {
+    "id": "S3",
+    "firstName": "Olivia",
+    "lastName": "Andersson",
+    "phone": "070-1001003",
+    "email": "olivia.andersson@example.com",
+    "personalNumber": "19960303-3456",
+    "address": { "street": "Storgatan 5", "postalCode": "41310", "city": "Göteborg" },
+    "enrolledCourseIds": []
+  }
+]

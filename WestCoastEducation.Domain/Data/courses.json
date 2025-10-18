@@ -1,0 +1,70 @@
+[
+  {
+    "$type": "classroom",
+    "id": "C1",
+    "courseNumber": "WCE101",
+    "title": "Introduktion till Webbutveckling",
+    "lengthDays": 10,
+    "schedule": { "startDate": "2025-11-03T00:00:00Z", "endDate": "2025-11-14T00:00:00Z", "lengthWeeks": 2 },
+    "teacherId": "T1",
+    "coordinatorId": "P1",
+    "qna": [],
+    "ratings": [4,5,5],
+    "location": "Göteborg Klassrum A1",
+    "isRemoteTeacherLed": false
+  },
+  {
+    "$type": "classroom",
+    "id": "C2",
+    "courseNumber": "WCE102",
+    "title": "C# och .NET Grundkurs",
+    "lengthDays": 15,
+    "schedule": { "startDate": "2025-12-01T00:00:00Z", "endDate": "2025-12-19T00:00:00Z", "lengthWeeks": 3 },
+    "teacherId": "T2",
+    "coordinatorId": "P1",
+    "qna": [],
+    "ratings": [5,4,4,5],
+    "location": "Stockholm Distansrum 2",
+    "isRemoteTeacherLed": true
+  },
+  {
+    "$type": "classroom",
+    "id": "C3",
+    "courseNumber": "WCE103",
+    "title": "Databaser och SQL",
+    "lengthDays": 8,
+    "schedule": { "startDate": "2025-11-24T00:00:00Z", "endDate": "2025-12-03T00:00:00Z", "lengthWeeks": 2 },
+    "teacherId": "T5",
+    "coordinatorId": "P2",
+    "qna": [],
+    "ratings": [4,4,5],
+    "location": "Malmö Sal B2",
+    "isRemoteTeacherLed": false
+  },
+  {
+    "$type": "onDemand",
+    "id": "C7",
+    "courseNumber": "OD201",
+    "title": "On-Demand: HTML & CSS för nybörjare",
+    "lengthDays": 7,
+    "schedule": { "startDate": "2024-01-01T00:00:00Z", "endDate": "2024-12-31T00:00:00Z", "lengthWeeks": 52 },
+    "teacherId": "T1",
+    "qna": [],
+    "ratings": [5,4,5,5,4],
+    "isSubscriptionEligible": true,
+    "previewChapters": ["Introduktion", "Layout med Flexbox", "Responsiv design"]
+  },
+  {
+    "$type": "onDemand",
+    "id": "C8",
+    "courseNumber": "OD202",
+    "title": "On-Demand: ASP.NET Core API",
+    "lengthDays": 12,
+    "schedule": { "startDate": "2024-01-01T00:00:00Z", "endDate": "2024-12-31T00:00:00Z", "lengthWeeks": 52 },
+    "teacherId": "T2",
+    "qna": [],
+    "ratings": [5,5,4],
+    "isSubscriptionEligible": true,
+    "previewChapters": ["Grunder i API", "Controllers", "Dependency Injection"]
+  }
+]
